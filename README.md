@@ -19,4 +19,4 @@ Stop anytime with Ctrl+C.
 ## Notes
 - Change the popup interval by editing `$ms` (in milliseconds) in the script.
 - Adjust volume by changing `$global:mediaPlayer.settings.volume` (0–100).
-- This is intentionally disruptive (popups + sound). Use responsibly and only on your own machine.
+- This is intentionally disruptive (popups + sound). Use responsibly.
